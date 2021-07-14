@@ -1,0 +1,34 @@
+.btn-gold {
+  background-color: var(--gold-color);
+  border: none;
+  color: #333;
+  font-weight: bold;
+}
+.btn-gold:hover {
+  background-color: var(--coffee-brown);
+  border: none;
+  color: #ffff;
+  font-weight: bold;
+}
+
+/* .btn-xl {
+  width: 20%;
+  height: 10%;
+  border-radius: 50px;
+  letter-spacing: 3px;
+  font-size: 1.3rem;
+} */
+
+.bg-gold {
+  background-color: var(--gold-color);
+  color: #000000;
+}
+
+.star {
+  color: #fbc02d;
+}
+
+.bg-paper {
+  background: url("../images/paper-bg.jpg") no-repeat center;
+  padding: 100px 20px;
+}
